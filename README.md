@@ -34,3 +34,5 @@ Hi, I'm Dhani, a passionate back-end web developer from Indonesia.
 <a>
   <img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=dhanifu&layout=compact&theme=tokyonight&bg_color=0,141E30,243B55" />
 </a>
+
+#### Don't forget to be grateful
