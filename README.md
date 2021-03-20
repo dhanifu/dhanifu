@@ -6,7 +6,7 @@ Junior Back-end developer from Indonesia.
 - 🌱 I love Laravel, Javascript and Vue.js
 - 🔍 I'm always looking for help on stackoverflow, google, etc.
 
-**Languages and Tools:**  
+**Languages:**  
 
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/laravel/laravel.png"></code>
 <code><img height="20" src="https://raw.githubusercontent.com/github/explore/5c058a388828bb5fde0bcafd4bc867b5bb3f26f3/topics/php/php.png"></code>
