@@ -1,7 +1,7 @@
 <!--code><img height="20" src="https://raw.githubusercontent.com/github/explore/80688e429a7d4ef2fca1e82350fe8e3517d3494d/topics/python/python.png"></code -->
 # Hi there, I'm Dhani! 👋
 
-Junior Back-end developer from Indonesia.
+Junior Back-end developer.
 
 - 🌱 I love Laravel, Javascript and Vue.js
 - 🔍 I'm always looking for help on stackoverflow, google, etc.
