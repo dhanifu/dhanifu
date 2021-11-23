@@ -25,7 +25,7 @@ I'm Dhani, a junior full-stack engineer, creative programmer who specializes in 
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=Laravel&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Vue.js-informational?style=flat&logo=Vue.js&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=4AB197)
 
 <details>
 <summary>More Skills</summary>
