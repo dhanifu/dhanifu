@@ -1,5 +1,6 @@
 [![Gmail Badge](https://img.shields.io/badge/Email-Address-informational?style=flat&logo=gmail&logoColor=white&color=1CA2F1)](mailto:mramdhani010@gmail.com)
 [![LinkedIn Badge](https://img.shields.io/badge/LinkedIn-Profile-informational?style=flat&logo=linkedin&logoColor=white&color=0D76A8)](https://www.linkedin.com/in/muhammad-ramdhani)
+[![Viewers Counter](https://komarev.com/ghpvc/?username=dhanifu)
 
 Hey there 👋
 
