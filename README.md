@@ -29,7 +29,7 @@ I'm Dhani, a full-stack engineer, creative programmer who specializes in back-en
 ![](https://img.shields.io/badge/Code-PHP-informational?style=flat&logo=PHP&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-JavaScript-informational?style=flat&logo=JavaScript&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Code-Laravel-informational?style=flat&logo=Laravel&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Code-Node.js-informational?style=flat&logo=Node.js&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Database-Go-informational?style=flat&logo=Go&logoColor=white&color=2596be)
 
 <details>
 <summary>More Skills</summary>
@@ -42,7 +42,6 @@ I'm Dhani, a full-stack engineer, creative programmer who specializes in back-en
 
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4AB197)
-![](https://img.shields.io/badge/Database-Go-informational?style=flat&logo=Go&logoColor=white&color=2596be)
 <!-- ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197) -->
 <!-- ![](https://img.shields.io/badge/Database-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=4AB197) -->
 
