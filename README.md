@@ -42,6 +42,7 @@ I'm Dhani, a full-stack engineer, creative programmer who specializes in back-en
 
 ![](https://img.shields.io/badge/Database-MySQL-informational?style=flat&logo=MySQL&logoColor=white&color=4AB197)
 ![](https://img.shields.io/badge/Database-PostgreSQL-informational?style=flat&logo=PostgreSQL&logoColor=white&color=4AB197)
+![](https://img.shields.io/badge/Database-Go-informational?style=flat&logo=Go&logoColor=white&color=2596be)
 <!-- ![](https://img.shields.io/badge/Database-MongoDB-informational?style=flat&logo=MongoDB&logoColor=white&color=4AB197) -->
 <!-- ![](https://img.shields.io/badge/Database-Firebase-informational?style=flat&logo=Firebase&logoColor=white&color=4AB197) -->
 
