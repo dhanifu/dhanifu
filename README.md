@@ -7,7 +7,7 @@
 
 Hey there 👋
 
-I'm Dhani, a junior full-stack engineer, creative programmer who specializes in back-end development.
+I'm Dhani, a full-stack engineer, creative programmer who specializes in back-end development.
 
 <!-- Want to know more about me? [Check out my portfolio. (developing)](/#) -->
 
