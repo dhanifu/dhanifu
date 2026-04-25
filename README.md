@@ -1,13 +1,3 @@
-# 💫 About Me:
-<!--🔭 I’m currently working on PLN Icon Plus<br>👯 I’m looking to collaborate on<br>🤝 I’m looking for help with<br>🌱 I’m currently learning<br>💬 Ask me about<br>⚡ Fun fact -->
-I am a backend developer with 3 years of experience building and maintaining web applications using Laravel. I am skilled in managing MySQL and PostgreSQL databases, as well as creating and integrating RESTful APIs. My focus is on optimizing application performance through caching and database optimization, and ensuring data security.
-
-I have experience using Git for code management and collaborating with teams. I am known for my fast learning and adaptability to new technologies.
-
-Recently, I have started mastering Golang for backend development, including concurrency management with goroutines and channels, and web development using Fiber.
-
-<br>
-
 ## 🌐 Socials:
 [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/muhammad-ramdhani) 
 
